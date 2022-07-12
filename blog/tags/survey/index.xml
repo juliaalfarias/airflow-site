@@ -2075,6 +2075,10 @@
 
 &lt;p&gt;According to the survey results, DAG Versioning is a winner for new features in Airflow, and it’s not a surprise as this feature may positively impact daily work of Airflow users. It is followed by three other ideas: Dependency management and Data-driven scheduling (42.6%), More dynamic task structure (42.1%) and Multi-Tenancy (37.9%). Another interesting point from that question is that only 11.3% think that support for hybrid executors is needed in Airflow.&lt;/p&gt;
 
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+
+&lt;p&gt;If you&amp;rsquo;re interested in taking a look at the raw data yourself, it&amp;rsquo;s available here: (Airflow User Survey 2022.csv)[/data/survey-responses/airflow-user-survey-responses-2022.csv.zip]&lt;/p&gt;
+
       </description>
     </item>
     
@@ -2758,14 +2762,10 @@ than 60% of users are getting information from Github and Slack channels.&lt;/p&
 &lt;td&gt;13&lt;/td&gt;
 &lt;td&gt;6.4&lt;/td&gt;
 &lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td&gt;Other&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+
+&lt;p&gt;| Other&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Do you use Airflow&amp;rsquo;s data lineage feature? (single choice)&lt;/strong&gt;&lt;/p&gt;
 
@@ -3673,6 +3673,10 @@ are willing to upgrade to new ones.&lt;/p&gt;
 &lt;p&gt;Finally, there are still some things to improve - documentation, onboarding guides and plug-and-play airflow
 deployments. However, we hope that with the increase of adoption there will be an increase in people willing
 to share their experience and tools.&lt;/p&gt;
+
+&lt;h2 id=&#34;data&#34;&gt;Data&lt;/h2&gt;
+
+&lt;p&gt;If you think I missed something or you simply want to look for insights on your own, the data is available for you here: (Airflow User Survey 2020.csv)[/data/survey-responses/airflow-user-survey-responses-2020.csv.zip]&lt;/p&gt;
 
       </description>
     </item>
