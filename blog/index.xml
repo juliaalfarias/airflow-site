@@ -63,7 +63,7 @@
     &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;sa&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;Looking at data between &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;data_interval_start&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt; and &lt;/span&gt;&lt;span class=&#34;si&#34;&gt;{&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;data_interval_end&lt;/span&gt;&lt;span class=&#34;si&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
     &lt;span class=&#34;o&#34;&gt;...&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;There are a few subtlties as to what you need installed in the virtual env depending on which context variables you access, so be sure to read the &lt;a href=&#34;http://airflow.apache.org/docs/apache-airflow/2.4.0/howto/operator/python.html#externalpythonoperator&#34;&gt;how-to on using the ExternalPythonOperator&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;more-improvments-to-dynamic-task-mapping-aip-42&#34;&gt;More improvments to Dynamic Task Mapping (AIP-42)&lt;/h2&gt;
+&lt;h2 id=&#34;more-improvements-to-dynamic-task-mapping-aip-42&#34;&gt;More improvements to Dynamic Task Mapping (AIP-42)&lt;/h2&gt;
 &lt;p&gt;You asked, we listened. Dynamic task mapping now includes support for:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;code&gt;expand_kwargs&lt;/code&gt;: To assign multiple parameters to a non-TaskFlow operator.&lt;/li&gt;
